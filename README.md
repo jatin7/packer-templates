@@ -12,7 +12,7 @@ Install requirements:
 
 Build a machine image from the template in the repository:
 
-    $ packer build -only=virtualbox-iso archlinux-x86_64.json
+    $ packer build -only=virtualbox-iso ubuntu-18.04-amd64.json
 
 ## Configuration
 

@@ -33,5 +33,5 @@ You can configure each template to match your requirements by setting the follow
 
 Build a CentOS 7 box with a 4GB hard disk using the VirtualBox provider:
 
-    $ packer build -only=virtualbox-iso -var disk_size=4000 centos-7.4-x86_64.json
+    $ packer build -only=virtualbox-iso -var disk_size=4000 centos-7.5-x86_64.json
 

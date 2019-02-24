@@ -3,7 +3,7 @@
 
 Clone the repository:
 
-    $ git clone https://github.com/librenms/packer-templates && cd packer-templates
+    $ git clone https://github.com/jatin7/packer-templates && cd packer-templates
 
 Install requirements:
 
